@@ -13,3 +13,8 @@ Belajar kelas Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (prog
     spesifikasi teknik aplikasi
   * Belajar SKPL, Menjelaskan kerja Fungsional dan Nonfungsional, Struktur Penulisan SKPL.
   * Belajar HTML dan CSS, contoh Kode HTML, Pengenalan style guide, cara penulisan kode yang baik.
+
+**13 Februari 2022**  
+Belajar kelas Memullai Dasar Pemrograman untuk Menjadi Pengembang Software. (progres 100%)
+  * Mempelajari Rangkuman akhir pembelajaran yang sudah di rangkum
+  * Mengerjakan Ujian akhir untuk menilai kemahiran diri
